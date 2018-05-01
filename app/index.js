@@ -105,11 +105,6 @@ messaging.peerSocket.onmessage = evt => {
   }
 };
 
-setTimeout(() => {
-  winAnimation.style.display = 'inline';
-  winAnimation.animate('enable');
-}, 5000)
-
 // Message socket opens
 messaging.peerSocket.onopen = () => {
   console.log("App Socket Open");
