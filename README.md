@@ -13,3 +13,6 @@ Click the watch to cycle through the following items:
 ## Progress bars
 The green progress bar shows the relative number of steps you are behind the player before you on the leaderboard. The fuller the progress bar the closer you are to catch him up.
 The oragne progress bar shows the distance between you and the player right behind you on the leaderboard. The smaller the progress bar the further you are away from him.
+
+## Mocking a challenge
+In the simulator you can use the settings to simulate the challenge.
